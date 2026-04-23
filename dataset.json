@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Nevada, US",
-  "export_job_id": "c0f0856a-9aaf-4750-9259-2293f0541331",
+  "export_job_id": "10e9fb5e-f171-418e-96b0-a73899635ab5",
   "github_org": "Beamstation-Datasets",
   "id_short": 727906,
   "location_name": "Nevada",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-nevada-us-sample-727906",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/727906/beamstation_727906_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_pct": 9.8,
+  "sample_pct": 9.26,
   "sample_records": 5,
-  "sample_sha256": "2a222f1a1d1f606f3c00f35917c821a1de7fc73b91c79e8748172e8ab2cc7c8b",
-  "sample_size_bytes": 35879,
-  "total_records": 51,
-  "updated_at": "2026-04-15T07:27:24.846381+00:00"
+  "sample_sha256": "4ef89e923390859b5719877de947742737d0d8eaa70ec2934318ee14c0984bf8",
+  "sample_size_bytes": 35729,
+  "total_records": 54,
+  "updated_at": "2026-04-22T13:47:03.703319+00:00"
 }
