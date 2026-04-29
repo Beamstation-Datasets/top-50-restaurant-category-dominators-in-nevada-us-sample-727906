@@ -1,12 +1,12 @@
 {
-  "export_job_id": "10e9fb5e-f171-418e-96b0-a73899635ab5",
+  "export_job_id": "31c288c9-6fb2-4412-9ebb-a9d01144eacd",
   "id_short": 727906,
-  "published_at": "2026-04-23T07:06:54Z",
+  "published_at": "2026-04-29T19:33:06Z",
   "repo_name": "top-50-restaurant-category-dominators-in-nevada-us-sample-727906",
   "sample_asset_name": "beamstation_727906_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/727906/beamstation_727906_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_records": 5,
-  "sample_sha256": "4ef89e923390859b5719877de947742737d0d8eaa70ec2934318ee14c0984bf8",
-  "sample_size_bytes": 35729,
-  "total_records": 54
+  "sample_sha256": "9750230c1afd18065b133cfb64aa6c8d9cc649575cd9cfbb31156b3c8d3337cf",
+  "sample_size_bytes": 35820,
+  "total_records": 52
 }
